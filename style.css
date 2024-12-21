@@ -1,0 +1,10 @@
+body{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background: rgb(0,0,0);
+  background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(116,116,116,1) 100%);
+  color: #fff;
+}
+p{
+  font-size: 16px;
+  color: #c6c6c6;
+}
